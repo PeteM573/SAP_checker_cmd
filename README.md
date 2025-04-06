@@ -1,4 +1,4 @@
-# SAP_checker_cmd
+# Command-Line SAP Transaction Checker
 A command-line tool for testing mock exporyt data for researching theoretical service part variances.
 While this is *based on* the output of an SAP system, it does not use any proprietary information from my former employer. Just a receipt or repair number generated at random and SAP movement codes taken from SAP's own documentation.
 
